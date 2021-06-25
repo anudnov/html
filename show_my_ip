@@ -33,7 +33,7 @@
 		<!--<h1>IP</h1>-->
 		<h3>Public IP Address:</h3>
 
-		<p id="gfg"></p>
+		<h1><p id="gfg"></p></h1>
 
 	</center>
 </body>
